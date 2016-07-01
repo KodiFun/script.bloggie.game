@@ -1,0 +1,9 @@
+<settings>
+    <setting id="resource1" type="text" label="30000" default="123456789M1"/>
+    <setting id="resource2" type="text" label="30001" default="123456789F2"/>
+    <setting id="resource3" type="text" label="30002" default="123456789M3"/>
+	<setting id="resource4" type="text" label="30003" default="123456789M4"/>
+	<setting id="Url" type="text" label="30100" default="www.ple.be"/>
+    <setting id="enu" type="enum" label="30004" values="5|10|15|20|25|30" default="3"/>
+    <setting id="full_details" type="bool" label="30005" default="false"/>
+ </settings>
